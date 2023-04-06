@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshay4away
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning exploring web dev
 - 💞️ I’m looking to collaborate on internship
 - 📫 How to reach me twitter
 
